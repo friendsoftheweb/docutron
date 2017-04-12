@@ -21,6 +21,7 @@
     "glob": "^7.1.1",
     "livereload": "^0.6.2",
     "marked": "^0.3.6",
+    "mustache": "^2.3.0",
     "node-sass": "^4.5.2",
     "sass-loader": "^6.0.3",
     "url-loader": "^0.5.8",
