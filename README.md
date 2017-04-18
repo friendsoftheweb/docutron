@@ -18,10 +18,10 @@ assets
 
 documents
 └── proposals
-    ├── index.mustache
-    ├── header.mustache
-    ├── footer.mustache
-    ├── cover.mustache
+    ├── index.hbs
+    ├── header.hbs
+    ├── footer.hbs
+    ├── cover.hbs
     └── versions
         ├─ lexcorp.json
         └─ wayne-enterprises.json
