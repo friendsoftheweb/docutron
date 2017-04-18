@@ -1,6 +1,6 @@
 {
   "name": "docutron",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An awesome PDF generator.",
   "main": "index.js",
   "repository": "git@github.com:friendsoftheweb/docutron.git",
