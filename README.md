@@ -32,3 +32,7 @@ Starting the server:
 ```
 $ yarn run docutron
 ```
+
+## Dependencies
+
+Requires version 0.12.5 of [wkhtmltopdf](https://wkhtmltopdf.org/)
